@@ -1,0 +1,31 @@
+{
+  "userinfo": [
+    {
+      "UserID": "0",
+      "ImageLink": "",
+      "Name Surname": "Jeff Kaplan",
+      "Age": "30",
+      "Title": "CEO",
+      "Adress": "Valhalla",
+      "Date of Entry": "2022"
+    },
+    {
+      "UserID": "1",
+      "ImageLink": "",
+      "Name Surname": "Travis Sales",
+      "Age": "30",
+      "Title": "COO",
+      "Adress": "Valhalla",
+      "Date of Entry": "2022"
+    },
+    {
+      "UserID": "2",
+      "ImageLink": "",
+      "Name Surname": "Sercan Akduman",
+      "Age": "30",
+      "Title": "CIO",
+      "Adress": "Valhalla",
+      "Date of Entry": "2022"
+    }
+  ]
+}
