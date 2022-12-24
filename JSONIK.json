@@ -2,7 +2,7 @@
   "userinfo": [
     {
       "UserID": "0",
-      "ImageLink": "http://ftp.skyviewdata.io/?download&weblink=9c22d01c754fe2bd606f48f7a786a749&realfilename=1.png",
+      "ImageLink": "",
       "Name Surname": "Jeff Kaplan",
       "Age": "30",
       "Title": "CEO",
@@ -20,7 +20,7 @@
     },
     {
       "UserID": "1",
-      "ImageLink": "http://ftp.skyviewdata.io/?download&weblink=e930a260d1b70ab093861942e60138ff&realfilename=2.png",
+      "ImageLink": "",
       "Name Surname": "Travis Sales",
       "Age": "30",
       "Title": "COO",
@@ -38,7 +38,7 @@
     },
     {
       "UserID": "2",
-      "ImageLink": "http://ftp.skyviewdata.io/?download&weblink=63ed8626fcceaee9e89c1b4417bb92a1&realfilename=3.png",
+      "ImageLink": "",
       "Name Surname": "Sercan Akduman",
       "Age": "30",
       "Title": "CIO",
@@ -56,7 +56,7 @@
     },
     {
       "UserID": "3",
-      "ImageLink": "http://ftp.skyviewdata.io/?download&weblink=718bd48496b482dae32a37c970566a4b&realfilename=4.png",
+      "ImageLink": "",
       "Name Surname": "Ibrahim Jackson",
       "Age": "30",
       "Title": "Corporate Education",
@@ -74,7 +74,7 @@
     },
     {
       "UserID": "4",
-      "ImageLink": "http://ftp.skyviewdata.io/?download&weblink=b56f98101510d76bb093e6a226813a46&realfilename=5.png",
+      "ImageLink": "",
       "Name Surname": "Moustafa Naguib",
       "Age": "30",
       "Title": "Public Relations",
@@ -92,7 +92,7 @@
     },
     {
       "UserID": "5",
-      "ImageLink": "http://ftp.skyviewdata.io/?download&weblink=2ca47432a0dde5a213ab36c9ec903e6f&realfilename=6.png",
+      "ImageLink": "",
       "Name Surname": "Julie Ginches",
       "Age": "30",
       "Title": "CMO",
@@ -110,7 +110,7 @@
     },
     {
       "UserID": "6",
-      "ImageLink": "http://ftp.skyviewdata.io/?download&weblink=be561d9918544cb83e6d5ed82aace107&realfilename=7.png",
+      "ImageLink": "",
       "Name Surname": "Manuel Maestrini",
       "Age": "30",
       "Title": "Software Development Global Lead",
@@ -128,7 +128,7 @@
     },
     {
       "UserID": "7",
-      "ImageLink": "http://ftp.skyviewdata.io/?download&weblink=40cb7f39eae8b9f37d4dcb5b1e553561&realfilename=8.png",
+      "ImageLink": "",
       "Name Surname": "Brianna Kaplan",
       "Age": "30",
       "Title": "Marketing Director",
@@ -146,7 +146,7 @@
     },
     {
       "UserID": "8",
-      "ImageLink": "http://ftp.skyviewdata.io/?download&weblink=be01bea13a12c98f000044c3e0a73713&realfilename=9.png",
+      "ImageLink": "",
       "Name Surname": "Cihan Ayar",
       "Age": "30",
       "Title": "Partner, Skyview Turkey",
@@ -164,7 +164,7 @@
     },
     {
       "UserID": "9",
-      "ImageLink": "http://ftp.skyviewdata.io/?download&weblink=fb1ac18a7ee4ed306514faf8080edd7e&realfilename=10.png",
+      "ImageLink": "",
       "Name Surname": "Murat Gökçe",
       "Age": "30",
       "Title": "Partner, Skyview Turkey",
